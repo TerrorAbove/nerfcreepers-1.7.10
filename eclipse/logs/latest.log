@@ -1,0 +1,11 @@
+[17:20:11] [main/INFO]: Setting user: Player62
+[17:20:13] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:20:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nerf Creepers
+[17:20:22] [Sound Library Loader/INFO]: Sound engine started
+[17:20:23] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:20:23] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:20:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nerf Creepers
+[17:20:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:20:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:20:25] [Sound Library Loader/INFO]: Sound engine started
+[17:21:01] [Client thread/INFO]: Stopping!
